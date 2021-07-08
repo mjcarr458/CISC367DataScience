@@ -1,7 +1,7 @@
 # Analysis of Delaware State Employee Credit Card Transactions
 
 ## Problem
-State Backed credit card programs and extremely benefical for expiditing the process of getting State Agencies the materials they need to operate. However in exhange for this increase in speed, purchases often lose significant oversight. This can lead to substantial missue of tax payer money through state employees using government credit cards for personal items.
+State-backed credit card programs are extremely benefical for expediting the process of getting State Agencies the materials they need to operate. However, in exhange for this increase in speed, purchases often lose significant oversight. This can lead to substantial misuse of tax payer money through state employees using government credit cards for personal items.
 ## Background
 The State of Delaware PCard Program allows for State employees to make purchases using credit cards backed by the State of Delaware and subsequently Delaware Taxpayers. In order to increase the efficency of getting neccesary purches for State agencies, prior approval is not required for employees to use the credit cards. All though the purchase sums are typically small in size, this process still consists of a non-elected offical using taxpayer money without direct approval. Just like any form of government spending, employee credit card spending deserves to be evaluated and criticed by the public. 
 
